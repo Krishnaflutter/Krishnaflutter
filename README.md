@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋  I am 
 
+<img src="https://github.com/Krishnaflutter/Krishnaflutter/blob/main/Krishna%20header.gif" alt="Hi I am Krishna Ashok">
 <!--
 **Krishnaflutter/Krishnaflutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
